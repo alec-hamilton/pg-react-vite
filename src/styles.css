@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "NeueMontreal";
+  src: url("./fonts/NeueMontreal-Regular.otf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "NeueMontreal";
+  src: url(".fonts/NeueMontreal-Bold.otf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "NeueMontreal";
+  src: url("./fonts/NeueMontreal-Light.otf");
+  font-weight: 300;
+}
+
+:root {
+  --black: #282828;
+  --white: #f2f2f2;
+  --overlay: #00000080;
+  --pink: #ff8fa0;
+}
+
+:focus-visible {
+  outline: solid 2px var(--white);
+  border-radius: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  background-color: var(--black);
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+/* Global font defaults */
+h1, h2, h3, h4, h5, p, td, li {
+  color: var(--white);
+  font-family: NeueMontreal, sans-serif;
+}
+
+/* Hover styles */
+p a {
+  color: var(--white);
+  text-decoration: underline;
+  transition: 0.3s;
+  transition-property: color;
+}
+
+p a:hover {
+  color: var(--pink);
+}
+
+/* Season grid setup */
+.e1:hover div,
+.e2:hover div,
+.e3:hover div,
+.e4:hover div,
+.e5:hover div,
+.e6:hover div,
+.e7:hover div,
+.e8:hover div,
+.e9:hover div,
+.e10:hover div,
+.e11:hover div,
+.e12:hover div {
+  visibility: visible;
+}
+
+.e1 {
+  grid-area: 3 / 4;
+}
+
+.e2 {
+  grid-area: 3 / 3;
+}
+
+.e3 {
+  grid-area: 3 / 2;
+}
+
+.e4 {
+  grid-area: 3 / 1;
+}
+
+.e5 {
+  grid-area: 2 / 4;
+}
+
+.e6 {
+  grid-area: 2 / 3;
+}
+
+.e7 {
+  grid-area: 2 / 2;
+}
+
+.e8 {
+  grid-area: 2 / 1;
+}
+
+.e9 {
+  grid-area: 1 / 4;
+}
+
+.e10 {
+  grid-area: 1 / 3;
+}
+
+.e11 {
+  grid-area: 1 / 2;
+}
+
+.e12 {
+  grid-area: 1 / 1;
+}
