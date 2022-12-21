@@ -5,5 +5,4 @@ export const TopNav = styled.nav`
   justify-content: space-between;
   border-bottom: 1px solid var(--white);
   width: 100%;
-  top: 0;
 `;

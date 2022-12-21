@@ -29,7 +29,7 @@ const Footer = () => {
         })}
       </FooterLinks>
       <FooterLine>
-        <ExternalLink href="https://github.com/alec-hamilton/pg-fe">
+        <ExternalLink href="https://github.com/alec-hamilton/pg-react-vite">
           site designed and built by alec hamilton
         </ExternalLink>
       </FooterLine>
