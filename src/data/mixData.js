@@ -68,9 +68,9 @@ const mixData = [
       },
       {
         episode: 11,
-        artist: "?",
-        img: "pg-placeholder-white.png",
-        link: "#",
+        artist: "hoavi",
+        img: "s3e11.png",
+        link: "https://soundcloud.com/pleasuregallery/hoavi-pleasure-gallery-s3-e11",
       },
       {
         episode: 12,
