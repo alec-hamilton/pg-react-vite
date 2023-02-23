@@ -81,48 +81,60 @@ p a:hover {
 
 .e1 {
   grid-area: 3 / 4;
+  z-index: 9;
 }
 
 .e2 {
   grid-area: 3 / 3;
+  z-index: 9;
 }
 
 .e3 {
   grid-area: 3 / 2;
+  z-index: 9;
 }
 
 .e4 {
   grid-area: 3 / 1;
+  z-index: 9;
 }
 
 .e5 {
   grid-area: 2 / 4;
+  z-index: 9;
 }
 
 .e6 {
   grid-area: 2 / 3;
+  z-index: 9;
 }
 
 .e7 {
   grid-area: 2 / 2;
+  z-index: 9;
 }
 
 .e8 {
   grid-area: 2 / 1;
+  z-index: 9;
 }
 
 .e9 {
   grid-area: 1 / 4;
+  z-index: 9;
 }
 
 .e10 {
   grid-area: 1 / 3;
+  z-index: 9;
 }
 
 .e11 {
   grid-area: 1 / 2;
+  z-index: 9;
 }
 
 .e12 {
   grid-area: 1 / 1;
+  z-index: 9;
 }
