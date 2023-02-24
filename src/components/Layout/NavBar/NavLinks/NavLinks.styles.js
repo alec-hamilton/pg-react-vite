@@ -13,6 +13,7 @@ export const NavLinksContainer = styled(motion.ul)`
   right: 0;
   bottom: 0;
   background-color: var(--black);
+  z-index: 99;
 
   @media only screen and (min-width: 700px) {
     left: 50%;
