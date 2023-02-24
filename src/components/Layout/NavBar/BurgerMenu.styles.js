@@ -7,7 +7,7 @@ export const Hamburger = styled(BiMenu).attrs((props) => ({
   position: absolute;
   right: 2rem;
   cursor: pointer;
-  z-index: 99;
+  z-index: 999;
   color: var(--white);
   transition: 0.3s;
   &:hover {
@@ -21,7 +21,7 @@ export const Close = styled(BiX).attrs((props) => ({
   position: fixed;
   right: 2rem;
   cursor: pointer;
-  z-index: 99;
+  z-index: 999;
   color: var(--white);
   transition: 0.3s;
   &:hover {
