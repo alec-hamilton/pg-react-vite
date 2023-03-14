@@ -74,9 +74,9 @@ const mixData = [
       },
       {
         episode: 12,
-        artist: "?",
-        img: "pg-placeholder-black.png",
-        link: "#",
+        artist: "s.drift",
+        img: "s3e12.png",
+        link: "https://soundcloud.com/pleasuregallery/sdrift-pleasure-gallery-s3-e12",
       },
     ],
   },
