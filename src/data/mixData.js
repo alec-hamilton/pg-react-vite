@@ -1,6 +1,88 @@
 const mixData = [
   {
     details: {
+      season: 4,
+      artist: "lola evelyn ives",
+      site: "https://www.instagram.com/lazulimoooon.art/",
+    },
+    episodes: [
+      {
+        episode: 1,
+        artist: "estimulo",
+        img: "s4e1.png",
+        link: "https://soundcloud.com/pleasuregallery/citizen-maze-pleasure-gallery-s3-e1",
+      },
+      {
+        episode: 2,
+        artist: "?",
+        img: "pg-placeholder-white.png",
+        link: "#",
+      },
+      {
+        episode: 3,
+        artist: "?",
+        img: "pg-placeholder-black.png",
+        link: "#",
+      },
+      {
+        episode: 4,
+        artist: "?",
+        img: "pg-placeholder-white.png",
+        link: "#",
+      },
+      {
+        episode: 5,
+        artist: "?",
+        img: "pg-placeholder-white.png",
+        link: "#",
+      },
+      {
+        episode: 6,
+        artist: "?",
+        img: "pg-placeholder-black.png",
+        link: "#",
+      },
+      {
+        episode: 7,
+        artist: "?",
+        img: "pg-placeholder-white.png",
+        link: "#",
+      },
+      {
+        episode: 8,
+        artist: "?",
+        img: "pg-placeholder-black.png",
+        link: "#",
+      },
+      {
+        episode: 9,
+        artist: "?",
+        img: "pg-placeholder-black.png",
+        link: "#",
+      },
+      {
+        episode: 10,
+        artist: "?",
+        img: "pg-placeholder-white.png",
+        link: "#",
+      },
+      {
+        episode: 11,
+        artist: "?",
+        img: "pg-placeholder-black.png",
+        link: "#",
+      },
+      {
+        episode: 12,
+        artist: "?",
+        img: "pg-placeholder-white.png",
+        link: "#",
+      },
+      
+    ],
+  },
+  {
+    details: {
       season: 3,
       artist: "márton tóth",
       site: "https://www.marutonkun.com/",
