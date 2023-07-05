@@ -10,7 +10,7 @@ const mixData = [
         episode: 1,
         artist: "estimulo",
         img: "s4e1.png",
-        link: "https://soundcloud.com/pleasuregallery/citizen-maze-pleasure-gallery-s3-e1",
+        link: "https://soundcloud.com/pleasuregallery/estimulo-pleasure-gallery-s4-e1",
       },
       {
         episode: 2,
