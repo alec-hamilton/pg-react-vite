@@ -1,10 +1,5 @@
 import { useState } from "react";
-import {
-  BurgerMenuContainer,
-  Close,
-  Hamburger,
-  MenuButton,
-} from "./BurgerMenu.styles";
+import { Close, Hamburger, MenuButton } from "./BurgerMenu.styles";
 import NavLinks from "./NavLinks/NavLinks";
 
 const BurgerMenu = () => {
@@ -17,7 +12,7 @@ const BurgerMenu = () => {
           setOpen(!open);
         }}
       >
-        {open ? <Close /> : <Hamburger />}
+        {open ? <Close aria-label="Close the menu"/> : <Hamburger aria-label="Open the menu" />}
       </MenuButton>
       <NavLinks open={open} setOpen={setOpen} />
     </>
