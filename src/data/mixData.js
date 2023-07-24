@@ -14,9 +14,9 @@ const mixData = [
       },
       {
         episode: 2,
-        artist: "?",
-        img: "pg-placeholder-white.png",
-        link: "#",
+        artist: "cofaxx",
+        img: "s4e2.png",
+        link: "https://soundcloud.com/pleasuregallery/cofaxx-pleasure-gallery-s4-e2",
       },
       {
         episode: 3,
