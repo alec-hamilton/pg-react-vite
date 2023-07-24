@@ -7,8 +7,11 @@ export const Hamburger = styled(BiMenu).attrs((props) => ({
   cursor: pointer;
   color: var(--white);
   transition: 0.3s;
-  &:hover {
-    color: var(--pink);
+
+  @media only screen and (min-width: 700px) {
+    &:hover {
+      color: var(--pink);
+    }
   }
 `;
 
@@ -20,8 +23,11 @@ export const Close = styled(BiX).attrs((props) => ({
   cursor: pointer;
   color: var(--white);
   transition: 0.3s;
-  &:hover {
-    color: var(--pink);
+
+  @media only screen and (min-width: 700px) {
+    &:hover {
+      color: var(--pink);
+    }
   }
 `;
 
