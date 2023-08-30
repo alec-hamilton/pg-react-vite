@@ -20,9 +20,9 @@ const mixData = [
       },
       {
         episode: 3,
-        artist: "?",
-        img: "pg-placeholder-black.png",
-        link: "#",
+        artist: "duun",
+        img: "s4e3.png",
+        link: "https://soundcloud.com/pleasuregallery/duun-pleasure-gallery-s4-e3",
       },
       {
         episode: 4,
