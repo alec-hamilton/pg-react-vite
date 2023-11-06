@@ -1,5 +1,8 @@
 import { AboutContainer } from "./About.styles";
-import { BodyText, PageTitle } from "../../../../components/Typography/Typography.styles";
+import {
+  BodyText,
+  PageTitle,
+} from "../../../../components/Typography/Typography.styles";
 import { HorizontalLine } from "../../../../components/Dividers/Dividers.styles";
 
 const AboutSection = () => {
@@ -7,8 +10,8 @@ const AboutSection = () => {
     <AboutContainer>
       <PageTitle>about</PageTitle>
       <BodyText>
-        Pleasure gallery is a mix series, radio show and event promoter based in
-        Bristol and founded by Alec Hamilton.
+        Pleasure gallery is a mix series and radio show founded in Bristol by
+        Alec Hamilton. It is now based in Melbourne.
       </BodyText>
       <BodyText>
         Born out of a love for the unique relationship between music and art,
