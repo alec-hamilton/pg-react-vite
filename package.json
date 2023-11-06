@@ -12,14 +12,14 @@
     "framer-motion": "^7.10.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.7.1",
-    "react-router-dom": "^6.5.0",
+    "react-icons": "^4.11.0",
+    "react-router-dom": "^6.18.0",
     "styled-components": "^4.4.1"
   },
   "devDependencies": {
-    "@types/react": "^18.0.38",
-    "@types/react-dom": "^18.0.11",
-    "@vitejs/plugin-react": "^3.0.1",
-    "vite": "^4.3.9"
+    "@types/react": "^18.2.35",
+    "@types/react-dom": "^18.2.14",
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.5.0"
   }
 }
