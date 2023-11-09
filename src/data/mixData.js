@@ -26,15 +26,15 @@ const mixData = [
       },
       {
         episode: 4,
-        artist: "?",
-        img: "pg-placeholder-white.png",
-        link: "#",
+        artist: "igor dyachenko",
+        img: "s4e4.png",
+        link: "https://soundcloud.com/pleasuregallery/igor-dyachenko-pleasure-gallery-s4-e4",
       },
       {
         episode: 5,
         artist: "?",
         img: "pg-placeholder-white.png",
-        link: "#",
+        link: "",
       },
       {
         episode: 6,
