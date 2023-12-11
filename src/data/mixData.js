@@ -32,9 +32,9 @@ const mixData = [
       },
       {
         episode: 5,
-        artist: "?",
-        img: "pg-placeholder-white.png",
-        link: "",
+        artist: "angus mills",
+        img: "s4e5.png",
+        link: "https://soundcloud.com/pleasuregallery/angus-mills-pleasure-gallery-s4-e5",
       },
       {
         episode: 6,
