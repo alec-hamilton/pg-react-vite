@@ -38,9 +38,9 @@ const mixData = [
       },
       {
         episode: 6,
-        artist: "?",
-        img: "pg-placeholder-black.png",
-        link: "#",
+        artist: "rob winston",
+        img: "s4e6.png",
+        link: "https://soundcloud.com/pleasuregallery/rob-winston-pleasure-gallery-s4-e6",
       },
       {
         episode: 7,
