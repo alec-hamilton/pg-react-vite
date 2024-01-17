@@ -38,9 +38,9 @@ const mixData = [
       },
       {
         episode: 6,
-        artist: "rob winston",
+        artist: "rob winstone",
         img: "s4e6.png",
-        link: "https://soundcloud.com/pleasuregallery/rob-winston-pleasure-gallery-s4-e6",
+        link: "https://soundcloud.com/pleasuregallery/rob-winstone-pleasure-gallery-s4-e6",
       },
       {
         episode: 7,
