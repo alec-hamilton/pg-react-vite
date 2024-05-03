@@ -44,9 +44,9 @@ const mixData = [
       },
       {
         episode: 7,
-        artist: "?",
-        img: "pg-placeholder-white.png",
-        link: "#",
+        artist: "eden aurelius",
+        img: "s4e7.png",
+        link: "https://soundcloud.com/pleasuregallery/eden-aurelius-pleasure-gallery-s4-e7",
       },
       {
         episode: 8,
