@@ -50,9 +50,9 @@ const mixData = [
       },
       {
         episode: 8,
-        artist: "?",
-        img: "pg-placeholder-black.png",
-        link: "#",
+        artist: "command d",
+        img: "s4e8.png",
+        link: "https://soundcloud.com/pleasuregallery/command-d-pleasure-gallery-s4-e8",
       },
       {
         episode: 9,
