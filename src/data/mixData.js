@@ -56,9 +56,9 @@ const mixData = [
       },
       {
         episode: 9,
-        artist: "?",
-        img: "pg-placeholder-black.png",
-        link: "#",
+        artist: "nak",
+        img: "s4e9.png",
+        link: "https://soundcloud.com/pleasuregallery/nak-pleasure-gallery-s4-e9",
       },
       {
         episode: 10,
