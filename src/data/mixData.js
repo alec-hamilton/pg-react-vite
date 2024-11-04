@@ -62,9 +62,9 @@ const mixData = [
       },
       {
         episode: 10,
-        artist: "?",
-        img: "pg-placeholder-white.png",
-        link: "#",
+        artist: "hüda",
+        img: "s4e10.png",
+        link: "https://soundcloud.com/pleasuregallery/huda-pleasure-gallery-s4-e10",
       },
       {
         episode: 11,
