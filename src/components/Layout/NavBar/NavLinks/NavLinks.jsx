@@ -15,6 +15,9 @@ const NavLinks = ({ open, setOpen }) => {
     <InternalLink to="/about" onClick={() => closeMobileMenu()}>
       about
     </InternalLink>,
+    <InternalLink to="/radio" onClick={() => closeMobileMenu()}>
+      radio
+    </InternalLink>,
     <ExternalLink href="https://soundcloud.com/pleasuregallery">
       soundcloud
     </ExternalLink>,
