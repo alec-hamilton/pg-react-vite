@@ -68,9 +68,9 @@ const mixData = [
       },
       {
         episode: 11,
-        artist: "?",
-        img: "pg-placeholder-black.png",
-        link: "#",
+        artist: "king softy",
+        img: "s4e11.png",
+        link: "https://soundcloud.com/pleasuregallery/king-softy-pleasure-gallery-s4-e11",
       },
       {
         episode: 12,
