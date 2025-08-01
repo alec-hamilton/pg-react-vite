@@ -74,9 +74,9 @@ const mixData = [
       },
       {
         episode: 12,
-        artist: "?",
-        img: "pg-placeholder-white.png",
-        link: "#",
+        artist: "takeo.k",
+        img: "s4e11.png",
+        link: "https://soundcloud.com/pleasuregallery/takeok-pleasure-gallery-s4-e12",
       },
       
     ],
