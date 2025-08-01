@@ -75,7 +75,7 @@ const mixData = [
       {
         episode: 12,
         artist: "takeo.k",
-        img: "s4e11.png",
+        img: "s4e12.png",
         link: "https://soundcloud.com/pleasuregallery/takeok-pleasure-gallery-s4-e12",
       },
       
